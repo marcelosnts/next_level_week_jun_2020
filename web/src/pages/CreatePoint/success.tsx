@@ -7,10 +7,10 @@ const Success = () => {
     const history = useHistory();
 
     useEffect( () => {
-        returnHome(10);
+        returnHome();
     }, []);
 
-    function returnHome(time : number){
+    function returnHome(){
         setTimeout(() => {
             history.push('/');
         }, 5000);
