@@ -10,8 +10,8 @@ Axios: Conexão e gestão do banco de dados.<br><br>
 Leaflet: Mapa e marcadores<br><br>
 API IBGE: Listagem de estados e cidades.<br><br>
 <br><br><br>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta.PNG" />
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_concluido.PNG" />
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_01.PNG" />
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_02.PNG" />
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_03.PNG" />
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta.PNG" width="200" heigth="150"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_concluido.PNG" width="200" heigth="150"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_01.png" />
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_02.png" />
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_03.png" />
