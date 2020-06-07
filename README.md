@@ -11,7 +11,7 @@ Leaflet: Mapa e marcadores<br><br>
 API IBGE: Listagem de estados e cidades.<br><br>
 <br><br><br>
 <img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta.PNG" width="400" heigth="300"/>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_concluido.PNG" width="400" heigth="300"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_concluido.PNG" width="400" heigth="310"/>
 <br><br>
 <img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_01.png" />
 <img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_02.png" />
