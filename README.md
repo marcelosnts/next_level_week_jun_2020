@@ -17,6 +17,6 @@ API IBGE: Listagem de estados e cidades.
 <br><br>
 <strong>Mobile: </strong>
 <br><br>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_01.png" width="266"/>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_02.png" width="266"/>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_03.png" width="266"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_01.png" />
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_02.png" />
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_03.png" />
