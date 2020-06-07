@@ -5,8 +5,8 @@ Evento promovido pela Rocketset para desenvolvimento do projeto **ECOLETA** comp
 <br><br><br>
 **Bibliotecas utilizadas: **
 <br><br>
-DB: SQLite
-Axios: Conexão e gestão do banco de dados.
-Leaflet: Mapa e marcadores
-API IBGE: Listagem de estados e cidades.
+DB: SQLite<br><br>
+Axios: Conexão e gestão do banco de dados.<br><br>
+Leaflet: Mapa e marcadores<br><br>
+API IBGE: Listagem de estados e cidades.<br><br>
 <br><br>
