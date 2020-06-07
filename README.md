@@ -12,9 +12,9 @@ API IBGE: Listagem de estados e cidades.
 <br><br><br>
 <strong>Imagens: </strong>
 <br><br>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta.PNG" width="400" height="250"/>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_concluido.PNG" width="400" height="250"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta.PNG" width="410" height="250"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_concluido.PNG" width="410" height="250"/>
 <br><br>
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_01.png" />
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_02.png" />
-<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_03.png" />
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_01.png" width="266"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_02.png" width="266"/>
+<img src="https://github.com/marcelosnts/next_level_week_jun_2020/blob/master/ecoleta_mobile_03.png" width="266"/>
