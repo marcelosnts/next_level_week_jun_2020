@@ -8,7 +8,7 @@ Evento promovido pela Rocketset para desenvolvimento do projeto **ECOLETA** comp
 DB: SQLite<br><br>
 Axios: Conexão e gestão do banco de dados.<br><br>
 Leaflet: Mapa e marcadores<br><br>
-API IBGE: Listagem de estados e cidades.<br><br>
+API IBGE: Listagem de estados e cidades.
 <br><br><br>
 <strong>Imagens: </strong>
 <br><br>
